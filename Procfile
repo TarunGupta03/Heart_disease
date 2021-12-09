@@ -1,1 +1,1 @@
-web:main.html app:app
+web:main.html app:app.py
